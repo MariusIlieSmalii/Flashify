@@ -4,8 +4,8 @@ Después de cerca de 20 días de intenso desarrollo y aprendizaje, me emociona a
 
 <div style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/ca09e13b-3be3-4a92-8c52-7439ad7d2497" alt="1" width="200" />
-  <img src="https://github.com/user-attachments/assets/fe507872-bd9b-4b72-8c84-0f1cc64e7e58" alt="2" width="200" />
   <img src="https://github.com/user-attachments/assets/5cd1fd3b-29e5-48bb-ba9b-ad76092774e2" alt="3" width="200" />
+  <img src="https://github.com/user-attachments/assets/fe507872-bd9b-4b72-8c84-0f1cc64e7e58" alt="2" width="200" />
   <img src="https://github.com/user-attachments/assets/4e04d410-7c1d-4296-95ff-65b304b30db0" alt="4" width="200" />
 </div>
 
