@@ -7,7 +7,6 @@ Después de cerca de 20 días de intenso desarrollo y aprendizaje, me emociona a
   <img src="https://github.com/user-attachments/assets/fe507872-bd9b-4b72-8c84-0f1cc64e7e58" alt="2" width="200" />
   <img src="https://github.com/user-attachments/assets/5cd1fd3b-29e5-48bb-ba9b-ad76092774e2" alt="3" width="200" />
   <img src="https://github.com/user-attachments/assets/4e04d410-7c1d-4296-95ff-65b304b30db0" alt="4" width="200" />
-  <img src="https://github.com/user-attachments/assets/4d584bd1-5db3-46cf-801e-42fa48cf72b7" alt="5" width="200" />
 </div>
 
 🛠️ Funcionalidades actuales  
