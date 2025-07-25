@@ -1,6 +1,6 @@
-📣 ¡Flashify ya está listo!
+📣 ¡Flashify⚡ ya está listo!
 
-Después de cerca de 20 días de intenso desarrollo y aprendizaje, me emociona anunciar que Flashify ha alcanzado su primera versión funcional.
+Después de cerca de 20 días de intenso desarrollo y aprendizaje, me emociona anunciar que Flashify⚡ ha alcanzado su primera versión funcional.
 
 <div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
   <img src="https://github.com/user-attachments/assets/ca09e13b-3be3-4a92-8c52-7439ad7d2497" alt="1" width="200" style="margin-right: 10px;" />
@@ -35,7 +35,7 @@ En futuras actualizaciones seguiremos mejorando la experiencia sin perder el enf
   - Año Nuevo 2026
 
 📥 Instalación  
-Para instalar Flashify en tu dispositivo Android:
+Para instalar Flashify⚡ en tu dispositivo Android:
 
 - Descarga el archivo APK desde la sección Releases.  
 - Habilita la opción "Instalar apps de fuentes desconocidas" en los ajustes de seguridad de tu dispositivo.  
